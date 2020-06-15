@@ -21,7 +21,7 @@ html,body{
 .menu a {
     clear: both;
     text-decoration: none;
-    color:#ececec;
+    color:#333333;
     margin: 0 20px 0 20px;
     line-height: 70px;
 }
@@ -42,6 +42,7 @@ label{
     display: none;
     width:25px;
     float: right;
+    color:#ffffff;
 }
 
 #toggle {
